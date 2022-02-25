@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "title": "Рис с яицом",
+      "image": "http://puzzlefoods.ru/wa-data/public/shop/products/65/03/365/images/892/892.750x0.jpg",
+      "price": 150,
+      "type": "Гарниры",
+      "description": "Рис отлично сочетается с другими блюдами",
+      "id": 1
+    },
+    {
+      "title": "Кебаб",
+      "image": "https://bestvietnam.ru/wp-content/uploads/2020/07/%D0%9A%D0%B5%D0%B1%D0%B0%D0%B1.jpg",
+      "price": 340,
+      "type": "Шашлыки",
+      "description": "Кебаб из говядины",
+      "id": 2
+    },
+    {
+      "title": "Мохито",
+      "image": "https://fb.ru/media/i/2/5/5/6/1/7/1/i/2556171.jpg",
+      "price": 259,
+      "type": "Напитки",
+      "description": "Мохито это напиток который , охлаждает",
+      "id": 3
+    },
+    {
+      "title": "Винегрет",
+      "image": "http://www.vinegreat.ru/p/photo/2017033001132159f.jpg",
+      "price": 499,
+      "type": "Холодное Блюдо",
+      "description": "Винегрет из Европы",
+      "id": 4
+    },
+    {
+      "title": "Стейк из рыбы",
+      "image": "https://dikayautka.com/wp-content/uploads/2014/10/IMG_0087.jpg",
+      "price": 1280,
+      "type": "Горячие Блюдо",
+      "description": "Стейк из рыбы очень вкусно",
+      "id": 5
+    },
+    {
+      "title": "Греческий салат",
+      "image": "https://attuale.ru/wp-content/uploads/2018/11/129_image.jpg",
+      "price": 370,
+      "type": "Салаты",
+      "description": "Греческий салат, там есть сыр",
+      "id": 6
+    }
+  ]
+}
